@@ -33,3 +33,5 @@ print(f"count value is {c}")
 
 d = ll.count("amey")
 print(d)
+
+print(ll.index(11))
